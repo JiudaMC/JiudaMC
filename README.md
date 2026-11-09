@@ -1,4 +1,11 @@
-# 🪙 Caza Monedas: juego de Roblox
+# Juegos de Roblox
+
+- **Caza Monedas** (este archivo): juego sencillo de recoger monedas.
+- **[Planeta Criaturas](planeta/README.md)** (carpeta `planeta/`): planeta redondo con criaturas para montar, zonas y jefes.
+
+---
+
+# 🪙 Caza Monedas
 
 Recoge monedas por el mapa, cómpralas en mejoras de **velocidad** y **salto**
 y sube a las plataformas altas, donde solo salen **monedas doradas** (valen 5).
